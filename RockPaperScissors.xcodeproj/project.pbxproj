@@ -11,6 +11,8 @@
 		A7D3746E25EF285F003ECFF7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7D3746D25EF285F003ECFF7 /* ContentView.swift */; };
 		A7D3747025EF2861003ECFF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7D3746F25EF2861003ECFF7 /* Assets.xcassets */; };
 		A7D3747325EF2861003ECFF7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A7D3747225EF2861003ECFF7 /* Preview Assets.xcassets */; };
+		A7D3747F25F02503003ECFF7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A7D3747E25F02503003ECFF7 /* README.md */; };
+		A7D3748225F0259A003ECFF7 /* RockPaperScissors_Screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = A7D3748125F0259A003ECFF7 /* RockPaperScissors_Screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		A7D3746F25EF2861003ECFF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A7D3747225EF2861003ECFF7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A7D3747425EF2861003ECFF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A7D3747E25F02503003ECFF7 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A7D3748125F0259A003ECFF7 /* RockPaperScissors_Screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = RockPaperScissors_Screenshot.png; path = ../../../../../Downloads/RockPaperScissors_Screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +40,8 @@
 		A7D3745F25EF285F003ECFF7 = {
 			isa = PBXGroup;
 			children = (
+				A7D3748125F0259A003ECFF7 /* RockPaperScissors_Screenshot.png */,
+				A7D3747E25F02503003ECFF7 /* README.md */,
 				A7D3746A25EF285F003ECFF7 /* RockPaperScissors */,
 				A7D3746925EF285F003ECFF7 /* Products */,
 			);
@@ -126,6 +132,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A7D3747F25F02503003ECFF7 /* README.md in Resources */,
+				A7D3748225F0259A003ECFF7 /* RockPaperScissors_Screenshot.png in Resources */,
 				A7D3747325EF2861003ECFF7 /* Preview Assets.xcassets in Resources */,
 				A7D3747025EF2861003ECFF7 /* Assets.xcassets in Resources */,
 			);
